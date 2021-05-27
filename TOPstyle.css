@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    /* border: 2px solid rgb(255, 3, 3); */
+    position: relative;
+    top: 0;
+    margin: 0 auto;
+    width: 1532px;
+    height: 110px;
+}
+#Logo{
+    /* border: 2px solid rgb(13, 17, 238); */
+    width: 300px;
+    height: auto;
+    position: absolute;
+    top: 14px;
+    left: 130px;
+}
+#Menu{
+    /* border: 2px solid rgb(230, 255, 6); */
+    width: 780px;
+    height: 90px;
+    position: absolute;
+    left:490px;
+    margin-top: 8px;
+}
+#Menu ul li { 
+    list-style: none;
+    color: rgb(119, 21, 21);
+    /* background-color: #ffffff; */
+    line-height: 0px;
+    column-width: 134px;
+    border-radius: 15px;
+    border-spacing:10px;
+    text-align: center;
+    /* border: 1px solid rgb(9, 231, 76);   */
+    float : left;
+}

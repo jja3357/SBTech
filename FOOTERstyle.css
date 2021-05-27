@@ -1,0 +1,17 @@
+.Footer {
+    width: 100%;
+    height: 150px;
+    border: 1px solid #eb5f27;
+    background-color: rgba(144, 164, 190, 0.849);
+    text-align: center;
+
+}
+#FOOTERLOGO {
+    position: absolute;
+    left: 650px;
+    margin:50px auto;
+}
+#FOOTERINFO {
+    position: relative;
+    left:80px;
+}
